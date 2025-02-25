@@ -1,5 +1,4 @@
 # ImmunoHack-TILs-Advancing-Breast-Cancer-Insights
-ImmunoHack: TILs – Advancing Breast Cancer Insights
 🚀 Unlocking the Power of Tumor-Infiltrating Lymphocytes (TILs) for Breast Cancer Analysis
 
 🔬 Project Overview
