@@ -1,0 +1,12 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+numpy==1.23.5
+opencv-python==4.8.1.78
+tensorflow >= 1.13
+keras-applications >= 1.0.7, <=1.0.8
+segmentation-models==1.0.1
+image-classifiers == 1.0.*
+efficientnet == 1.0.*
+patchify==0.2.3
+pillow==10.1.0
