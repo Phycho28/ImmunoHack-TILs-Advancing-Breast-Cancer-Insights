@@ -10,3 +10,4 @@ image-classifiers == 1.0.*
 efficientnet == 1.0.*
 patchify==0.2.3
 pillow==10.1.0
+setuptools
